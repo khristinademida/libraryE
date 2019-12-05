@@ -1,0 +1,9 @@
+E:\PROJECT\basadanuh\kursova\DataBase\Autorisation\bin\Debug\Autorisation.exe.config
+E:\PROJECT\basadanuh\kursova\DataBase\Autorisation\bin\Debug\Autorisation.exe
+E:\PROJECT\basadanuh\kursova\DataBase\Autorisation\bin\Debug\Autorisation.pdb
+E:\PROJECT\basadanuh\kursova\DataBase\Autorisation\obj\Debug\Autorisation.csprojResolveAssemblyReference.cache
+E:\PROJECT\basadanuh\kursova\DataBase\Autorisation\obj\Debug\Autorisation.Form1.resources
+E:\PROJECT\basadanuh\kursova\DataBase\Autorisation\obj\Debug\Autorisation.Properties.Resources.resources
+E:\PROJECT\basadanuh\kursova\DataBase\Autorisation\obj\Debug\Autorisation.csproj.GenerateResource.Cache
+E:\PROJECT\basadanuh\kursova\DataBase\Autorisation\obj\Debug\Autorisation.exe
+E:\PROJECT\basadanuh\kursova\DataBase\Autorisation\obj\Debug\Autorisation.pdb

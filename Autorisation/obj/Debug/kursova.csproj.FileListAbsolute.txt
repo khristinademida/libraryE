@@ -1,0 +1,39 @@
+E:\PROJECT\basadanuh\kursova\DataBase\Autorisation\bin\Debug\Autorisation.exe.config
+E:\PROJECT\basadanuh\kursova\DataBase\Autorisation\bin\Debug\Autorisation.exe
+E:\PROJECT\basadanuh\kursova\DataBase\Autorisation\bin\Debug\Autorisation.pdb
+E:\PROJECT\basadanuh\kursova\DataBase\Autorisation\obj\Debug\kursova.csprojResolveAssemblyReference.cache
+E:\PROJECT\basadanuh\kursova\DataBase\Autorisation\obj\Debug\Autorisation.Properties.Resources.resources
+E:\PROJECT\basadanuh\kursova\DataBase\Autorisation\obj\Debug\kursova.csproj.GenerateResource.Cache
+E:\PROJECT\basadanuh\kursova\DataBase\Autorisation\obj\Debug\Autorisation.exe
+E:\PROJECT\basadanuh\kursova\DataBase\Autorisation\obj\Debug\Autorisation.pdb
+E:\PROJECT\basadanuh\kursova\DataBase\Autorisation\bin\Debug\EntityFramework.dll
+E:\PROJECT\basadanuh\kursova\DataBase\Autorisation\bin\Debug\EntityFramework.SqlServer.dll
+E:\PROJECT\basadanuh\kursova\DataBase\Autorisation\bin\Debug\EntityFramework.xml
+E:\PROJECT\basadanuh\kursova\DataBase\Autorisation\bin\Debug\EntityFramework.SqlServer.xml
+E:\PROJECT\basadanuh\kursova\DataBase\Autorisation\obj\Debug\Autorisation.Show.resources
+E:\PROJECT\basadanuh\kursova\DataBase\Autorisation\obj\Debug\Autorisation.Autorization.resources
+E:\PROJECT\basadanuh\kursova\DataBase\Autorisation\obj\Debug\Autorisation.AddBooks.resources
+E:\PROJECT\basadanuh\kursova\DataBase\Autorisation\obj\Debug\Autorisation.AddUsers.resources
+E:\PROJECT\basadanuh\kursova\DataBase\Autorisation\obj\Debug\Autorisation.AddAuthors.resources
+E:\PROJECT\basadanuh\kursova\DataBase\Autorisation\obj\Debug\Autorisation.AddReviews.resources
+E:\PROJECT\basadanuh\kursova\DataBase\Autorisation\obj\Debug\Autorisation.AddSubscribes.resources
+D:\TNTU\database\курсова БД\kursova\DataBase\Autorisation\obj\Debug\kursova.csprojAssemblyReference.cache
+D:\TNTU\database\курсова БД\kursova\DataBase\Autorisation\obj\Debug\Autorisation.AddAuthors.resources
+D:\TNTU\database\курсова БД\kursova\DataBase\Autorisation\obj\Debug\Autorisation.AddReviews.resources
+D:\TNTU\database\курсова БД\kursova\DataBase\Autorisation\obj\Debug\Autorisation.AddSubscribes.resources
+D:\TNTU\database\курсова БД\kursova\DataBase\Autorisation\obj\Debug\Autorisation.AddUsers.resources
+D:\TNTU\database\курсова БД\kursova\DataBase\Autorisation\obj\Debug\Autorisation.AddBooks.resources
+D:\TNTU\database\курсова БД\kursova\DataBase\Autorisation\obj\Debug\Autorisation.Autorization.resources
+D:\TNTU\database\курсова БД\kursova\DataBase\Autorisation\obj\Debug\Autorisation.Show.resources
+D:\TNTU\database\курсова БД\kursova\DataBase\Autorisation\obj\Debug\Autorisation.Properties.Resources.resources
+D:\TNTU\database\курсова БД\kursova\DataBase\Autorisation\obj\Debug\kursova.csproj.GenerateResource.cache
+D:\TNTU\database\курсова БД\kursova\DataBase\Autorisation\obj\Debug\Autorisation.exe
+D:\TNTU\database\курсова БД\kursova\DataBase\Autorisation\obj\Debug\Autorisation.pdb
+D:\TNTU\database\курсова БД\kursova\DataBase\Autorisation\bin\Debug\Autorisation.exe.config
+D:\TNTU\database\курсова БД\kursova\DataBase\Autorisation\bin\Debug\Autorisation.exe
+D:\TNTU\database\курсова БД\kursova\DataBase\Autorisation\bin\Debug\Autorisation.pdb
+D:\TNTU\database\курсова БД\kursova\DataBase\Autorisation\bin\Debug\EntityFramework.dll
+D:\TNTU\database\курсова БД\kursova\DataBase\Autorisation\bin\Debug\EntityFramework.SqlServer.dll
+D:\TNTU\database\курсова БД\kursova\DataBase\Autorisation\bin\Debug\EntityFramework.xml
+D:\TNTU\database\курсова БД\kursova\DataBase\Autorisation\bin\Debug\EntityFramework.SqlServer.xml
+D:\TNTU\database\курсова БД\kursova\DataBase\Autorisation\obj\Debug\kursova.csproj.CopyComplete
